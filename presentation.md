@@ -63,8 +63,7 @@ paginate: true
  - Universities / Academic Institutions: 30,000+ globally
  - Online Communities (Discord, Reddit, etc.): Millions with potential governance needs
 
-TAM (Annual Market Size):
-~$10–15B+ (based on DAO tooling, civic platforms, and SaaS for governance across sectors)
+TAM (Annual Market Size): ~$10–15B+ (based on DAO tooling, civic platforms, and SaaS for governance across sectors)
 
 ---
 
@@ -77,8 +76,7 @@ TAM (Annual Market Size):
  - ~500 civic or academic organizations exploring digital governance pilots
  - ~1,000 enterprise-level nonprofits or foundations with governance complexity
 
-SAM (Annual Market Size):
-~$500M–$1B (estimated based on governance SaaS, grants, Web3 tooling budgets)
+SAM (Annual Market Size): ~$500M–$1B (estimated based on governance SaaS, grants, Web3 tooling budgets)
 
 ---
 
@@ -91,8 +89,7 @@ SAM (Annual Market Size):
  - Estimated revenue for B2C: ~$100/month average per DAO (Considering current DAO platform revenue)
  - Advanced/governance-heavy clients: up to $10K+/year
 
-SOM Estimate (Annual Revenue Potential):
-~$5M–$10M within 3 years
+SOM Estimate (Annual Revenue Potential): ~$5M–$10M within 3 years
 
 ---
 

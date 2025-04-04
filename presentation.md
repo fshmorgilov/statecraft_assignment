@@ -223,7 +223,7 @@ Scrum framework before production, Kanban after
 | Wallet-based onboarding          | 8      | 8      | 9          | 3      | 192.0       | Month 1   |
 | Blockchain explorer visibility   | 7      | 6      | 7          | 3      | 98.0        | Month 1   |
 | Testnet deployment on Sepolia    | 6      | 6      | 8          | 3      | 96.0        | Month 1-2 |
-| Gas-less transaction             | 9      | 8      | 6          | 9      | 44.8        | Month 2-3 |
+| Gas-less transaction             | 9      | 8      | 6          | 9      | 48          | Month 2-3 |
 
 
 ---

@@ -208,7 +208,7 @@ Core team composition:
 # Project Management
 
 Scrum framework before production, Kanban after
- - Designers and protocol analyst working 1 sprint ahead
+ - Designers and governance research analyst working 1 sprint ahead
  - Frontend, backend, QA's working on 2-week sprint basis
  - Protocol engineers working in separate process, involving audit
 
